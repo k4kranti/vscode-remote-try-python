@@ -1,4 +1,4 @@
-# literals are value that is directly return in source code. say like fixed values in the programing. That means thsi value is not computed or derieved from other variables or expressions. 
+# literals are value that is directly return in source code. say like fixed values in the programming. That means this value is not computed or derived from other variables or expressions. 
 
 #numerical literals
 number = 42
@@ -28,7 +28,7 @@ is_student= True
 print("He is adreykell student in computer class?", is_student)
 
 
-#None Literal - represents the absense of the value or null value 
+#None Literal - represents the absence of the value or null value 
 result = None
 print("Results published?", result)
 
@@ -66,7 +66,7 @@ print("fruits_removal :", fruits)
 fruits.add("oranges")
 fruits.add("kiwi")
 
-print("fruits_newset :", fruits)
+print("fruit_set :", fruits)
 
 set1 =  {1,2,3}
 set2 = {3,4,5,6}
